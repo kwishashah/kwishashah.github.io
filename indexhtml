@@ -84,26 +84,8 @@
               Perspiciatis, ab.
             </p>
           </div>
-          <div class="box">
-            <h3>Project 4</h3>
-            <p>
-              <a href="https://kwishashah.github.io/react-temp-a/">mybank</a>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              quia nobis eligendi reiciendis. Esse a possimus eum est veritatis
-              aliquid ut eveniet. Et illum odio ut voluptates molestiae?
-              Perspiciatis, ab.
-            </p>
-          </div>
-          <div class="box">
-            <h3>Project 5</h3>
-            <p>
-              <a href="https://kwishashah.github.io/react-store-a/">mybank</a>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              quia nobis eligendi reiciendis. Esse a possimus eum est veritatis
-              aliquid ut eveniet. Et illum odio ut voluptates molestiae?
-              Perspiciatis, ab.
-            </p>
-          </div>
+          
+          
         </div>
       </div>
       <div id="services" class="row" style="background-color: lightblue">
